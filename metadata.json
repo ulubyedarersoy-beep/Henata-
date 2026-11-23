@@ -1,0 +1,6 @@
+{
+  "name": "حِكمة",
+  "description": "تطبيق لعرض الاقتباسات الفلسفية عبر اختيار رقم محدد أو عدد معين من الحكم والأقوال الخالدة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
